@@ -16,13 +16,13 @@ If you're coming from C# and are familiar with out parameters, then it may be go
 
 Part of the reason I imagine that many Computer Science programs will eventually feature a Tic-Tac-Toe assignment[^2] is because of the potentially quite messy win-condition logic. There are many different approaches to optimize for readability, execution time, and reusability, and it's a great chance to watch students *spin their tires*. For our approach, explicitly hardcoding each case gets the job done and is simple enough to understand. To help illustrate the layout of the game board on the code side, I created these diagrams which are featured in the video. If you're just reading this repo, refer to these images when reading the GameIsOver bool function.
 
-![raylib-tictactoe-diagram1](doc-resources\raylib-tictactoe-diagram1.png)
+![raylib-tictactoe-diagram1](https://github.com/AndrewHamel111/raylib-tictactoe/blob/master/doc-resources/raylib-tictactoe-diagram1.png)
 
-![raylib-tictactoe-diagram1](doc-resources\raylib-tictactoe-diagram2.png)
+![raylib-tictactoe-diagram2](https://github.com/AndrewHamel111/raylib-tictactoe/blob/master/doc-resources/raylib-tictactoe-diagram2.png)
 
-![raylib-tictactoe-diagram1](doc-resources\raylib-tictactoe-diagram3.png)
+![raylib-tictactoe-diagram3](https://github.com/AndrewHamel111/raylib-tictactoe/blob/master/doc-resources/raylib-tictactoe-diagram3.png)
 
-![raylib-tictactoe-diagram1](doc-resources\raylib-tictactoe-diagram4.png)
+![raylib-tictactoe-diagram4](https://github.com/AndrewHamel111/raylib-tictactoe/blob/master/doc-resources/raylib-tictactoe-diagram4.png)
 
 ## Footnotes
 
