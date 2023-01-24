@@ -1,6 +1,7 @@
 // Raylib Tic-Tac-Toe
 // Andrew Hamel Codes
 // https://github.com/AndrewHamel111/raylib-tictactoe
+// https://youtu.be/ki5l_It9Q9Y
 
 #include <stdlib.h>
 #include <time.h>
